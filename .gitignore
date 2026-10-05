@@ -1,0 +1,8 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Standalone nested project (tracked in its own repository)
+Smartscholor AI-Agent/
